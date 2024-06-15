@@ -57,12 +57,12 @@ const Navbar = () => {
                         />
                     )}
                     {toggleMenu && (
-                        <div className="sb__navbar-menu_container scale-up-center">
+                        <div className="sb__navbar-menu_container scale-up-center">  
                             <div className="sb__navbar-menu_container-links">
                                 <p>
                                     <a href="www.google.com">Our partners</a>
                                 </p>
-                                <p>
+                                <p> 
                                     <a href="www.google.com">Plans and pricing</a>
                                 </p>
                                 <p>

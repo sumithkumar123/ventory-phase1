@@ -17,7 +17,7 @@ function Footer() {
                     </a>
                     <a href='/emplouer'>
                         <p>Customer App</p>
-                    </a> 
+                    </a>  
                     <a href='/emplouer'>
                         <p>Digital Inventory</p>
                     </a>

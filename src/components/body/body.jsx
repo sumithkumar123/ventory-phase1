@@ -7,7 +7,7 @@ import './body.scss';
 export default function Body() {
   return (
     <div className="container">
-      <div className="section"> 
+      <div className="section">  
         <h1>Why Ventory?</h1>
         <h3>Because we care about your business.</h3>
         <div className="content">
